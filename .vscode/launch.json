@@ -7,9 +7,9 @@
       "request": "launch",
       "args": [],
       "stopAtEntry": false,
-      "externalConsole": true,
-      "cwd": "c:/Users/iis22/Downloads",
-      "program": "c:/Users/iis22/Downloads/build/Debug/outDebug",
+      "externalConsole": false,
+      "cwd": "/home/billtsol/Documents/github/leetCode/easy",
+      "program": "/home/billtsol/Documents/github/leetCode/easy/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
